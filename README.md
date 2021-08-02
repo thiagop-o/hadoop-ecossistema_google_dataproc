@@ -30,12 +30,4 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 2. Criar um arquivo chamado ```resultado.txt```. Dentro desse arquivo, colocar as 10 palavras que mais são usadas no livro, de acordo com o resultado do Job.
 3. Inserir os arquivo ```resultado.txt``` e ```part-00000``` no repositório e informar na plataforma da Digital Innovation One.
 
----
 
-### Considerações Finais
-
-NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Hadoop que é conhecido. Isso não impacta no processamento.
-
-Qualquer outra dúvida, informação ou sugestão, fique a vontade para entrar em contato.
-
-marcelo@smarques.com
